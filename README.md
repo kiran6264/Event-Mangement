@@ -76,7 +76,4 @@ RunRoute is a comprehensive Marathon Management System designed to streamline th
 6. **Access the project:**
    Open your browser and go to `http://localhost:5173`.
 
-## Live Project Links & Resources:
 
-- **Live Demo:** [RunRoute Demo](https://runroute.netlify.app/)
-- **Server Repository:** [RunRoute Server](https://github.com/sheikhmuhammadantor/runroute-server)
